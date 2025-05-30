@@ -1,5 +1,5 @@
 /* Atividade 1 de 2 - Curso Utilização do Aplicativo Wokwi (CPS)
-   DANIEL RODRIGUES DE SOUSA 17/05/2024
+   DANIEL RODRIGUES DE SOUSA 17/05/2025
    PROJETO: https://wokwi.com/projects/429606843613330433 */
 
 /*
